@@ -17,9 +17,12 @@ in each sprints.
 
 Product Owner: ADITYA SHARMA and Scrum Master: CHHATRAPATI JAIN  
 
-Demo link: hikecoupon.com/test/CrimeBook/index.php 
+Demo link: www.hikecoupon.com/test/CrimeBook/index.php 
+
 User IDs/Passwords for Demo :-
+
   Police :           Email id – ps@cb.com   password-1234
+  
   Commissionerate :  Email id- com@cb.com   password-1234
   
   
