@@ -15,9 +15,11 @@ along with my 5 team members.
 Project work was done in 3 sprints comprising of diifferent tasks to be completed 
 in each sprints.
 
-Product Owner: ADITYA SHARMA and Scrum Master: CHHATRAPATI JAIN  
+Product Owner: ADITYA SHARMA 
+Scrum Master: CHHATRAPATI JAIN  
 
 Demo link: www.hikecoupon.com/test/CrimeBook/index.php 
+Sreenocast Link : https://www.youtube.com/watch?v=qfeCTjXrNr0&t=2s
 
 User IDs/Passwords for Demo :-
 
