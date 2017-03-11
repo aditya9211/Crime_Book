@@ -17,7 +17,9 @@ in each sprints.
 
 Product Owner: ADITYA SHARMA 
 
-Scrum Master: CHHATRAPATI JAIN  
+Scrum Master: CHHATRAPATI JAIN 
+
+
 
 Demo link: www.hikecoupon.com/test/CrimeBook/index.php 
 
