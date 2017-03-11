@@ -10,7 +10,7 @@ This product encompasses the needs of all the people be it victim, public,
 police or Commissionerate.
 
 
-This Project is based on Agile Methodolgy which was done collaboratively by me(Product Owner) 
+This Project is based on Agile Methodology which was done collaboratively by me(Product Owner) 
 along with my 5 team members.
 Project work was done in 3 sprints comprising of diifferent tasks to be completed 
 in each sprints.
